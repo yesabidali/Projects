@@ -1,7 +1,7 @@
 from google import genai
 
 # Initialize the client with your API key
-client = genai.Client(api_key="AIzaSyAz9UPz_Mk0buASgtUXnsq5uvn6qqy7otQ")
+client = genai.Client(api_key=" insert your api key ")
 
 print("Welcome to the AI Chat! Type 'exit' to quit.")
 
